@@ -4,6 +4,12 @@
 - 🌱 Informática para Internet
 - 👾 Eu não escolhi esse caminho. O caminho, ele me escolheu.
 
+<br>
+<div align="center">
+  <img width="70%" src="https://github.com/projdanielsilva/projdanielsilva/blob/main/redgif.gif">
+</div>
+<br>
+
 <div align="center">
   <a href="https://github.com/projdanielsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=projdanielsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
