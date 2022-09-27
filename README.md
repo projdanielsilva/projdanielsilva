@@ -1,4 +1,6 @@
-### Olá eu sou o Daniel da Silva
+<h2 align="center">⚡WELCOME TO MY PROFILE!⚡</h2>
+<h1 align="center"> MY NAME IS DANIEL DA SILVA! </h1>
+
 
 - 🔭 Estudando na ETEC MCM
 - 🌱 Informática para Internet
