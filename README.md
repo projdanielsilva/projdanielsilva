@@ -4,7 +4,7 @@
 
 - 🔭 Estudando na ETEC MCM
 - 🌱 Informática para Internet
-- 👾 Eu não escolhi esse caminho. O caminho, ele me escolheu.
+- 👾 Eu não escolhi esse caminho. O caminho, ele me escolheu
 
 <br>
 <div align="center">
