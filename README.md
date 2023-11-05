@@ -8,7 +8,7 @@
 
 <br>
 <div align="center">
-  <img width="70%" src="https://github.com/projdanielsilva/projdanielsilva/blob/main/redgif.gif">
+  <img width="70%" src="https://github.com/projdanielsilva/projdanielsilva/blob/main/gogetagif.gif">
 </div>
 <br>
 
