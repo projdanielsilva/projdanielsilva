@@ -4,13 +4,7 @@
 
 - 🔭 Estudando na ETEC MCM
 - 🌱 Informática para Internet
-- 👾 Eu não escolhi esse caminho. O caminho, ele me escolheu
-
-<br>
-<div align="center">
-  <img width="70%" src="https://github.com/projdanielsilva/projdanielsilva/blob/main/gogetagif.gif">
-</div>
-<br>
+- ⚡️ Dn 12:13 
 
 <div align="center"><br>
   <a href="https://github.com/projdanielsilva">
