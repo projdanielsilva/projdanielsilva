@@ -4,7 +4,7 @@
 
 - 🔭 Estudando na ETEC MCM
 - 🌱 Informática para Internet
-- ⚡️ Dn 12:13 
+- 🦁 Dn 12:13 
 
 <div align="center"><br>
   <a href="https://github.com/projdanielsilva">
